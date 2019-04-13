@@ -4,7 +4,7 @@ To do
 - Data preproccessing
 - Feature selection
 - Mean centering & scaling the data
-- PCA
+- Wrapper method (feature selection)
 - SVM
 - RNN
-- Benchmarking
+- Benchmarking and Cross Validation 
