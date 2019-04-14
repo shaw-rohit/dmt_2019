@@ -2,7 +2,6 @@
 
 To do
 - Data preproccessing
-- Feature selection
 - Mean centering & scaling the data
 - Wrapper method (feature selection)
 - SVM
